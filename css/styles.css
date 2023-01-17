@@ -1,0 +1,66 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    text-align: center;
+    display: inline-block;
+}
+.container{   
+    background-color: hsl(216, 50%, 16%);
+    width: 25%;
+    position: relative;
+    margin: 200px 400px 200px 500px;
+    border-radius: 20px;
+
+}
+.equilibrium-img{
+  width: 90%;
+  margin-top: 20px;
+}
+.etherium{
+    margin-right: 40px;
+    color: hsl(178, 100%, 50%);
+}
+.schedule{
+    margin-left: 90px;
+    color: hsl(215, 51%, 70%);
+}
+.author-avatar{
+    width: 10%;
+    
+}
+h1{
+    color: hsl(0, 0%, 100%);
+    font-size: large;
+    text-align: left;
+    margin-left: 20px;
+}
+p{
+    font-size: 16px;
+}
+.description{
+ color: hsl(215, 51%, 70%);
+ text-align: left;
+ margin-left: 20px;
+}
+hr{
+    width: 90%;
+    border-color: hsl(215, 51%, 70%);
+}
+footer{
+    margin-top: 100px;
+    color: hsl(215, 51%, 70%);
+}
+.author{
+    color:hsl(215, 51%, 70%);
+    text-align: left;
+    margin-left: 10px;
+    padding-bottom: 20px;
+}
+#author-name{
+    color: hsl(0, 0%, 100%);
+}
+    
+
+
+
+
+
